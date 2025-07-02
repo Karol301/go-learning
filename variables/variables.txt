@@ -1,0 +1,6 @@
+int	- Liczba całkowita ze znakiem - -5, 10
+uint - Liczba całkowita bez znaku (≥ 0)	- 0, 42
+float32	- Liczba zmiennoprzecinkowa (32 bity) - 3.14
+float64 - Liczba zmiennoprzecinkowa (64 bity) - 3.1415926535
+string - Ciąg znaków (tekst) - "Hello"
+bool - Wartość logiczna	- true, false

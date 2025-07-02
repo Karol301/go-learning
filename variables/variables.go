@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
+	//int, uint, float, string | float32, float64 ...
 	x := 1.6 //var x float = 1
 	y := int(x)
 	fmt.Println(x, y)
